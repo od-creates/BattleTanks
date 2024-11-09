@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1F9C364B-69D5-9897-B6F9-EA6E2EAF9473}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TankSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TankSpawner.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ecb884c7-770a-478e-976d-ba719d4b0daa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
